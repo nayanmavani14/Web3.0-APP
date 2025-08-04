@@ -7,7 +7,7 @@ const App = () => {
   return (
       <div className='App'>
         <h1 className="text-3xl font-bold underline">
-          Hello world!
+          Hello world! Web3.0 Project is Commimg Soon...
       </h1>
         
       </div>
